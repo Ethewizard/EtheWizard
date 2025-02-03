@@ -16,9 +16,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Frameworks and Controls         |<a href="https://github.com/Ethewizard/Security-Audit">Security Audit</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+
 
 ## Tools
 
