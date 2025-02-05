@@ -17,7 +17,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Managing Network Security        |<a href="https://github.com/Ethewizard/Security-Audit-lab/tree/main">Security Audit Lab</a>|
 | Incident Response       |<a href="https://github.com/Ethewizard/incident-report-analysis-Lab/tree/main">incident-report-analysis-Lab</a>|
-| Incident Report         |<a href="https://github.com/Ethewizard/Incident-response">Incident Response</a>|
+| Incident Response         |<a href="https://github.com/Ethewizard/Incident-Documentation-Lab">Incident-Documentation-Lab</a>|
 
 
 ## Tools
