@@ -15,8 +15,8 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Frameworks and Controls         |<a href="https://github.com/Ethewizard/Security-Audit">Security Audit</a>|
-| NIST Cybersecurity Framework         |<a href="https://github.com/Ethewizard/Incident-response">Incident Response</a>|
+| Network Security Audit        |<a href="https://github.com/Ethewizard/Security-Audit">Security Audit</a>|
+| Incident Response       |<a href="https://github.com/Ethewizard/incident-report-analysis-Lab/tree/main">Incident Response</a>|
 | Incident Report         |<a href="https://github.com/Ethewizard/Incident-response">Incident Response</a>|
 
 
