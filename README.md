@@ -18,7 +18,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | Managing Network Security        |<a href="https://github.com/Ethewizard/Security-Audit-lab/tree/main">Security Audit Lab</a>|
 | Incident Response       |<a href="https://github.com/Ethewizard/incident-report-analysis-Lab/tree/main">incident-report-analysis-Lab</a>|
 | Incident Response         |<a href="https://github.com/Ethewizard/Incident-Documentation-Lab">Incident-Documentation-Lab</a>|
-
+| Cloud Networking        |<a href="https://github.com/Ethewizard/VPC-Lab">VPC Lab</a>|
 
 ## Tools
 
