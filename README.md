@@ -13,7 +13,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Secure File Storage System          | <a href="https://google.com">Encrypted Cloud File Storage System project</a>|
+| Secure File Storage System          | <a href="https://github.com/Ethewizard/Encrypted-Cloud-File-Storage-System-project/tree/main">Encrypted Cloud File Storage System project</a>|
 | Cloud Networking        |<a href="https://github.com/Ethewizard/VPC-Lab">VPC Lab</a>|
 
 ## Tools
