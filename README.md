@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/elijah-walker-440aa7237/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a college student passionate about cybersecurity, ethical hacking, and digital defense. This repository is a collection of my hands-on projects, write-ups, scripts, and learning experiences as I build my skills in penetration testing, digital forensics, and network security.
+I'm a college student passionate about cybersecurity, ethical hacking, software development and digital defense. This repository is a collection of my hands-on projects, write-ups, scripts, and learning experiences as I build my skills in penetration testing, digital forensics, Software development, data science, machine learning and network security.
 
 ## Objective
 
