@@ -15,7 +15,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | Secure File Storage System          | <a href="https://github.com/Ethewizard/Encrypted-Cloud-File-Storage-System-project/tree/main">Encrypted Cloud File Storage System project</a>|
 | Cloud Security & Automation       |<a href="https://github.com/Ethewizard/Cloud-Security-Monitoring-Automation-Platform-Project">Cloud Security Monitoring & Automation Platform Project</a>|
-| Cloud Networking        |<a href="https://github.com/Ethewizard/VPC-Lab">VPC Lab</a>|
+| Cloud Networking        |<a href="https://github.com/Ethewizard/VPC-Lab">VPC Project</a>|
 
 ## Tools
 
@@ -48,6 +48,6 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Security audit
+- Encrypted Cloud File Storage System project
+- Cloud Security Monitoring & Automation Platform Project
+- VPC Project
