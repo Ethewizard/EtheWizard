@@ -13,7 +13,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Security  |<a href="https://github.com/Ethewizard/ALZ-Terraform">Auotmated Enterprise Azure landing Zone (terraform)</a>|
+| Cloud Security  |<a href="https://github.com/Ethewizard/ALZ-Terraform">Automated Enterprise Azure landing Zone (terraform)</a>|
 |Security Monitoring & SIEM Fundamentals  |<a href="https://github.com/Ethewizard/Incident-Response-Simulation">Incident Response Simulation</a>|
 
 
