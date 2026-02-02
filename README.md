@@ -6,7 +6,7 @@ I'm a college student passionate about cybersecurity, ethical hacking, software 
 
 ## Objective
 
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security role
+My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cloud Security Professional
 
 ## Skills
 
