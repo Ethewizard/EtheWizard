@@ -13,8 +13,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|DevOps  |<a href="https://github.com/Ethewizard/End-to-End-Log-Monitoring-and-Anomaly-Detection-System-with-Flask-Oracle-and-OCI">End-to-End Log Monitoring and Anomaly Detection System with Flask, Oracle, and OCI</a>|
-| Data Engineering | <a href="https://github.com/Ethewizard/Real-Time-Stock-Price-Data-Pipeline">Real Time Stock Price Data Pipeline Project</a>|
+| Cloud Security  |<a href="https://github.com/Ethewizard/ALZ-Terraform">Auotmated Enterprise Azure landing Zone (terraform)</a>|
 |Security Monitoring & SIEM Fundamentals  |<a href="https://github.com/Ethewizard/Incident-Response-Simulation">Incident Response Simulation</a>|
 
 
